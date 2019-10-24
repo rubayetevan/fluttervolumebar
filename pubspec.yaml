@@ -1,6 +1,6 @@
 name: volumebar
-description: A Flutter Volume Bar.
-version: 0.1.0
+description: A Flutter Volume Bar.You can use it as a progressbar.
+version: 0.1.1
 author: MD Rubayet Hassan<rubayet.evan@gmail.com>
 homepage: https://github.com/rubayetevan/fluttervolumebar
 
